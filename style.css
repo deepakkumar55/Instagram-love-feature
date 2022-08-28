@@ -89,7 +89,6 @@ body {
 
 #img-div {
     cursor: pointer;
-    background-color: red;
     display: flex;
     position: relative;
     height: 70%;
